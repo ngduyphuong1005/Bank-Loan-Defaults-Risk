@@ -17,7 +17,7 @@
 - Customer is above 50 year olds
 - Customer has income above 300K
 - Customer has working experience more than 30 years
-**: The main outcome of this analysis is that identifying the most important features to detect the bank loan defaulter and a data analysis guideline for control risk process. The solution is that we can create new useful features to train the models and improve the efficiency.
+3. The main outcome of this analysis is that identifying the most important features to detect the bank loan defaulter and a data analysis guideline for control risk process. The solution is that we can create new useful features to train the models and improve the efficiency.
 
 
 *Suggestion:
